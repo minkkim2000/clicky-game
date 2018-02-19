@@ -19,3 +19,5 @@ For this assignment, you'll create a memory game with React. This assignment wil
 6. Once the user's score is reset after an incorrect guess, the game should restart.
 
 7. When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
+
+See App Live here: https://hwatu-memory-game.herokuapp.com/
